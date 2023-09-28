@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pasinfosc</string>
+    <string name="places_api_key" translatable="false">AIzaSyDtW6lR0p_Cr3Tj0z8fxggtpZBW73YzE3M</string>
+
+    <string name="estimated_time">Прибуття за</string>
+    <string name="minutes">%d хв</string>
+    <string name="stop">Зупинка</string>
+    <string name="next_stop">Наступна зупинка</string>
+    <string name="select_bus">Выберите автобус</string>
+    <string name="select_route">Выберите маршрут</string>
+</resources>

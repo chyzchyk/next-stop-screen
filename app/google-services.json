@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "59459441125",
+    "project_id": "pasinfosc-40193",
+    "storage_bucket": "pasinfosc-40193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59459441125:android:a80ec271e4216809329f0c",
+        "android_client_info": {
+          "package_name": "ua.pasinfosc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59459441125-g746mj9u5198r9ovdt4tftm1oo865jil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.pasinfosc",
+            "certificate_hash": "c9f57f6e6eec73a46f49fefa259d59dc12190648"
+          }
+        },
+        {
+          "client_id": "59459441125-t5h5va87kvr6k0unjt47ed6mn9l8edjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ua.pasinfosc",
+            "certificate_hash": "97d4462c5fc1f22215d1e752de20b489d1fa47f2"
+          }
+        },
+        {
+          "client_id": "59459441125-1raaho7espfjbct0k4o4tqg0peh99kj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvaL8DAJhFY4xLPK88VLSW1CCLsfzwQdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59459441125-1raaho7espfjbct0k4o4tqg0peh99kj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
