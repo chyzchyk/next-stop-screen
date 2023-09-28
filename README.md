@@ -71,18 +71,33 @@ Strict-Transport-Security: max-age=604800
            "loa": false
 ```
 
-| Data      | Description                |
-| :-------- | :------------------------- |
-| `90`      | Route ID                   |
-| `54099`   | Tracker ID                 |
-| `name`    | Vehicle name               |
-| `time`    | Unixtime time on tracker   |
-| `segId`   | ID of route segment        |
-| `pos`     | Position of vehicle        |
-| `azimuth` | Azimuth                    |
-| `loa`     | Vehicle out of route or not|
+| Data/Key      | Description                |
+| :--------     | :------------------------- |
+| `90`          | Route ID                   |
+| `54099`       | Tracker ID                 |
+| `name`        | Vehicle name               |
+| `time`        | Unixtime time on tracker   |
+| `segId`       | ID of route segment        |
+| `pos`         | Position of vehicle        |
+| `azimuth`     | Azimuth                    |
+| `loa`         | Vehicle out of route or not|
 
 
 ## Info
 
 More information can be found on the Wiki tab
+
+Share your awesome results. You can find my contacts in my profile.
+## License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.txt)
