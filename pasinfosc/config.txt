@@ -1,0 +1,4 @@
+1-15-(Display time of information about stops between advertisements, in seconds)
+2-https://mpt.elsyton.com/-(API URL)
+3-40-(Radius of stops, in metres)
+4-54099-(Anchor tracker ID, for example 54099)
