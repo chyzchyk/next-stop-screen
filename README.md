@@ -12,14 +12,6 @@ Translation:\
 Зупинка – Stop\
 Визанчення маршруту – Defining the route
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Screenshots
 
 ![App Screenshot](https://github.com/chyzchyk/next-stop-screen/assets/125468919/7d3aa366-2604-43b0-adcc-911f635747ef)
