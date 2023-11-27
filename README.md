@@ -228,6 +228,10 @@ Strict-Transport-Security: max-age=604800
 | `loa`         | Vehicle out of route or not|
 
 
+## Developer
+
+- [Borys Sanin](https://freelancehunt.com/ua/freelancer/SousaSoft.html)
+
 ## License
 
 This program is free software: you can redistribute it and/or modify
